@@ -1,2 +1,3 @@
-- Getting Started
-    - [What are Cryptocurrencies?](getting-started/crypto.md)
+- [Getting Started](getting-started.md)
+- [Ethereum](/ethereum)
+- [Credits](credits.md)
